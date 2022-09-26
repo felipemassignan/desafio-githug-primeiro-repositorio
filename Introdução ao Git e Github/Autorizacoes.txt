@@ -2,3 +2,6 @@ Felipe Massignan
 Teste de trabalho de versionamento.
 
 Docker
+
+Linux 20.20
+Windows 10 x64
