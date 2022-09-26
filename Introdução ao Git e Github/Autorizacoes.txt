@@ -5,3 +5,6 @@ Docker
 
 Linux 20.20
 Windows 10 x64
+
+
+Após criação do arquivo online, criado arquivo offline.
